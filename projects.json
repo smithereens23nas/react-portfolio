@@ -2,13 +2,13 @@
     {
       "name": "project1",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/smithereens23nas/Project1-FightClub",
+      "image": "https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg"
     },
     {
       "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "live": "https://closed-ocean.herokuapp.com/home",
+      "git": "https://git.generalassemb.ly/smithereens23nas/closedOcean",
+      "image": "https://closed-ocean.herokuapp.com/images/Image.jpg"
     }
   ]

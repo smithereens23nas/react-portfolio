@@ -5,6 +5,7 @@ const cors = require("cors");
 // Import JSON files
 const projects = require("./projects.json");
 const about = require("./about.json");
+const home = require("./home.json")
 
 // Create our app object
 const app = express();
@@ -14,7 +15,7 @@ app.use(cors());
 
 //home route for testing our app
 app.get("/", (req, res) => {
-  res.send("Hello World");
+  res.json(home);
 });
 
 // route for retrieving projects
